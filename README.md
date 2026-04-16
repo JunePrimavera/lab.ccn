@@ -9,6 +9,10 @@ Fedora Kinoite based UBlue image with preinstalled software and restrictions for
 - Remmina
 - PuTTY
 
-## Restrictions
+## Additions - Work In Progress
 
-uDev - Allow non root users to access USB based storage
+- Cisco Packet Tracer
+
+## Settings/Restrictions
+
+USB Storage allowed for non root users
