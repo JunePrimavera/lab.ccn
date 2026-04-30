@@ -50,7 +50,6 @@ cp opt/pt/bin/PacketTracer /usr/lib/
 cp opt/pt/bin/libssl.so.1.1 /usr/lib
 cp opt/pt/bin/libcrypto.so.1.1 /usr/lib
 # Copy desktop entry for PacketTracer
-# TODO: Should add an icon
 echo """
 [Desktop Entry]
 Type=Application
