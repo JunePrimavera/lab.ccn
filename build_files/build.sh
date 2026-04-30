@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Gets the Linux Kernel version from the kernel package
+RELEASE="$(rpm -E %fedora)"
 KERNEL_PKG_VER="$(rpm -q kernel)"
 KERNEL_VER=${KERNEL_PKG_VER#"kernel-"}
 
